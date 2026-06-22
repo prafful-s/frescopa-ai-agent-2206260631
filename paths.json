@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/nikhilbhatt/aem-agents-demo/language-masters/en:/",
+    "/content/nikhilbhatt/aem-agents-demo/language-masters/en/:/en/",
+    "/content/nikhilbhatt/aem-agents-demo/configuration:/.helix/config.json",
+    "/content/nikhilbhatt/aem-agents-demo/metadata:/metadata.json",
+    "/content/nikhilbhatt/aem-agents-demo/redirects:/redirects.json",
+    "/content/nikhilbhatt/aem-agents-demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/nikhilbhatt/aem-agents-demo/",
+    "/content/dam/nikhilbhatt/aem-agents-demo/"
   ]
 }
